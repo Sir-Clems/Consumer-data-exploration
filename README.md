@@ -1,5 +1,4 @@
 # Consumer-data-exploration
-The project leverages Microsoft Excel-based analysis and Microsoft SQL Server for database management and querying
 This project focuses on exploratory data analysis (EDA) using Microsoft SQL Server to uncover meaningful insights from structured datasets. The objective is to analyze, transform, and summarize data to support data-driven decision-making.
 
 Using SQL queries, the project explores key data characteristics such as distributions, relationships, trends, and anomalies. Core techniques applied include data filtering, aggregation, grouping, joins, and the use of built-in functions for calculations such as averages, totals, and date differences.
